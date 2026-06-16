@@ -1,0 +1,3 @@
+[submodule "shared-utils"]
+	path = shared-utils
+	url = https://github.com/Yaswanth-Kumar21/core-library.git
